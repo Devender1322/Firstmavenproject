@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T12:41:49 IST" name="Default suite" finished-at="2023-06-15T12:42:13 IST" duration-ms="24040">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T12:41:49 IST" name="Default test" finished-at="2023-06-15T12:42:13 IST" duration-ms="24040">
+      <class name="com.auto.scripts.BlueStoneTest">
+        <test-method is-config="true" signature="FirstTest()[pri:0, instance:com.auto.scripts.BlueStoneTest@3c77d488]" started-at="2023-06-15T12:41:49 IST" name="FirstTest" finished-at="2023-06-15T12:42:04 IST" duration-ms="14938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method signature="Test1()[pri:0, instance:com.auto.scripts.BlueStoneTest@3c77d488]" started-at="2023-06-15T12:42:04 IST" name="Test1" finished-at="2023-06-15T12:42:13 IST" duration-ms="8600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="closebr()[pri:0, instance:com.auto.scripts.BlueStoneTest@3c77d488]" started-at="2023-06-15T12:42:13 IST" name="closebr" finished-at="2023-06-15T12:42:13 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebr -->
+      </class> <!-- com.auto.scripts.BlueStoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
